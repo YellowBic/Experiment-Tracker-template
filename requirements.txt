@@ -1,0 +1,8 @@
+omegaconf>=2.3.0
+PyYAML
+shortuuid
+pandas
+tensorboard
+torch>=2.1.0
+torchvision
+numpy
